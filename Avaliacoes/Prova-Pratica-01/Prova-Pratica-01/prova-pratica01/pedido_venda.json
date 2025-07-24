@@ -1,0 +1,34 @@
+{
+  "codigo": "PDV001",
+  "data": "2025-07-24T19:36:33.365184",
+  "valorPedido": 1300.0,
+  "cliente": {
+    "codigo": 1,
+    "nome": "Pedro",
+    "tipoCliente": 0
+  },
+  "vendedor": {
+    "codigo": 1,
+    "nome": "Klayrton",
+    "comissao": 5.6
+  },
+  "veiculo": {
+    "codigo": 101,
+    "descricao": "Carro Fiat Uno",
+    "valor": 14000.0
+  },
+  "items": [
+    {
+      "sequencial": 1,
+      "descricao": "Pneu",
+      "quantidade": 1,
+      "valor": 500.0
+    },
+    {
+      "sequencial": 2,
+      "descricao": "Farol de Milha",
+      "quantidade": 1,
+      "valor": 800.0
+    }
+  ]
+}
